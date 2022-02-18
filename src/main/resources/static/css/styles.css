@@ -1,0 +1,89 @@
+.header{
+   
+    color: white;
+    width: 40%;
+    top: 0;
+    padding-left: 50%;
+}
+
+.nav{
+    left: 10%;
+    display: flex; 
+   
+}
+
+.navItem{
+    list-style: none;
+    display:flex;
+    padding: 0;
+    font-size: 18px;
+    margin: 0 10px; 
+ 
+}
+
+.nav ul{
+    display:flex;
+    position:absolute;
+    list-style: none;
+}
+
+.nav img{
+    
+    padding-top: 0;
+    padding-right: 5px;
+    width: 10px;
+    height: 250px;
+}
+
+.imagenes{
+    width: 130px;
+    height: 230px;
+}
+
+.pelis{
+     display:flex;
+    position:absolute;
+    list-style: none;
+}
+
+.peliculas1{
+    display:flex;
+    position:absolute;
+    list-style: none;
+}
+
+.peliculas{
+    
+    padding-top: 0;
+    padding-right: 5px;
+    width: 170px;
+    height: 250px;
+}
+
+.pelisI{
+    left: 40%;
+    display: flex; 
+    max-width:992px;
+    margin:0px 0px 0px 40%;
+}
+
+.titulo{
+    padding: 10px;
+    background-color: red;
+}
+
+
+
+.trailers{
+    top: 0;
+   display: flow;
+    position: absolute;
+    top:0;
+    width: 30%;
+}
+
+.trailerTitulo{
+    padding: 10px;
+    color:white;
+    background-color: red;
+}
